@@ -1,25 +1,16 @@
 <h1 align="center">Hi 👋, I'm Wathika</h1>
 <h3 align="center">A developer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wathika-eng&label=Profile%20views&color=0e75b6&style=flat" alt="wathika-eng" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wathika-eng" alt="wathika-eng" /></a> </p>
-
 - 🔭 I’m currently working on [ALX classes](https://www.alxafrica.com/software-engineering/)
 
 - 🌱 I’m currently learning **C and MYSQL**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 🤝 I’m looking for help with [Python RESTful APIs]()
-
-- 👨‍💻 All of my projects are available at [https://wathika-eng.github.io/myportfolio/#](https://wathika-eng.github.io/myportfolio/#)
-
-- 📝 I regularly write articles on [https://medium.com/@wathika.wanini1](https://medium.com/@wathika.wanini1)
+- 🤝 I’m looking for help with [Python RESTful APIs](https://realpython.com/api-integration-in-python/)
 
 - 💬 Ask me about **Django, Flask and Bootstrap**
 
-- 📄 Know about my experiences [https://wathika-eng.github.io/myportfolio/#](https://wathika-eng.github.io/myportfolio/#)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
