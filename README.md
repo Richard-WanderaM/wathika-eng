@@ -2,19 +2,10 @@
 <h3 align="center">A developer from Kenya</h3>
 
 - 🔭 I’m currently working on [ALX classes](https://www.alxafrica.com/software-engineering/)
-
-- 🌱 I’m currently learning **C and MYSQL**
-
+- 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 🤝 I’m looking for help with [Python RESTful APIs](https://realpython.com/api-integration-in-python/)
-
 - 💬 Ask me about **Django, Flask and Bootstrap**
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
