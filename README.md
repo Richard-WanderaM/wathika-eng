@@ -2,7 +2,7 @@
 <h3 align="center">A developer from Kenya</h3>
 
 - 🔭 I’m currently working on [ALX classes](https://www.alxafrica.com/software-engineering/)
-- 
+  
 - 👯 I’m looking to collaborate on **Web development projects**
 
 - 💬 Ask me about **Django, Flask and Bootstrap**
