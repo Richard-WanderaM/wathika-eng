@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Django, Flask and Bootstrap**
   
-- [![wakatime](https://wakatime.com/badge/user/018c57df-d8be-452c-aae7-621da67d3d5c.svg)](https://wakatime.com/@018c57df-d8be-452c-aae7-621da67d3d5c)
+[![wakatime](https://wakatime.com/badge/user/018c57df-d8be-452c-aae7-621da67d3d5c.svg)](https://wakatime.com/@018c57df-d8be-452c-aae7-621da67d3d5c)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2021%20mins-blue)
 
@@ -15,16 +15,11 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 98.5 kB Used in GitHub's Storage 
- > 
+<!--> 📦 98.5 kB Used in GitHub's Storage-->
+<!-- > --->
 > 🏆 833 Contributions in the Year 2023
  > 
-> 💼 Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
+> 💼 Available to Hire
 **I'm a Night 🦉** 
 
 ```text
@@ -51,17 +46,6 @@ Sunday                   72 commits          ██░░░░░░░░░�
 ```text
 🕑︎ Time Zone: Africa/Nairobi
 
-💬 Programming Languages: 
-Python                   2 hrs 47 mins       █████████████████████░░░░   82.98 % 
-C                        18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Requirements.txt         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-
-🔥 Editors: 
-PyCharm                  3 hrs               ██████████████████████░░░   89.31 % 
-VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-
 💻 Operating System: 
 Windows                  3 hrs 3 mins        ███████████████████████░░   90.69 % 
 WSL                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
@@ -76,13 +60,6 @@ HTML                     7 repos             █████░░░░░░�
 Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/wathika-eng/wathika-eng/main/assets/bar_graph.png)
-
 
  Last Updated on 13/12/2023 18:26:11 UTC
 <!--END_SECTION:waka-->
