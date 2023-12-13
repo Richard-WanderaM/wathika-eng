@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Wathika</h1>
-<h3 align="center">A developer from Kenya</h3>
+<h3 align="center">A developer from Nairobi, Kenya</h3>
 
 - 🔭 I’m currently working on [ALX classes](https://www.alxafrica.com/software-engineering/)
   
 - 👯 I’m looking to collaborate on **Web development projects**
 
 - 💬 Ask me about **Django, Flask and Bootstrap**
+  
+- [![wakatime](https://wakatime.com/badge/user/018c57df-d8be-452c-aae7-621da67d3d5c.svg)](https://wakatime.com/@018c57df-d8be-452c-aae7-621da67d3d5c)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
