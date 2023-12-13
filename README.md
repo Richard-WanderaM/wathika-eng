@@ -1,66 +1,23 @@
 <h1 align="center">Hi 👋, I'm Wathika</h1>
 <h3 align="center">A developer from Nairobi, Kenya</h3>
 
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2021%20mins-blue)   ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)  [![wakatime](https://wakatime.com/badge/user/018c57df-d8be-452c-aae7-621da67d3d5c.svg)](https://wakatime.com/@018c57df-d8be-452c-aae7-621da67d3d5c)
 - 🔭 I’m currently working on [ALX classes](https://www.alxafrica.com/software-engineering/)
   
 - 👯 I’m looking to collaborate on **Web development projects**
 
 - 💬 Ask me about **Django, Flask and Bootstrap**
   
-[![wakatime](https://wakatime.com/badge/user/018c57df-d8be-452c-aae7-621da67d3d5c.svg)](https://wakatime.com/@018c57df-d8be-452c-aae7-621da67d3d5c)
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2021%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 98.5 kB Used in GitHub's Storage 
- > 
-> 🏆 834 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
-**I'm a Night 🦉** 
+🏆 833 Contributions in the Year 2023
 
-```text
-🌞 Morning                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-🌆 Daytime                202 commits         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-🌃 Evening                473 commits         ██████████████░░░░░░░░░░░   54.37 % 
-🌙 Night                  96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Tuesday                  141 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Wednesday                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Thursday                 107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Friday                   181 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Saturday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Sunday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
+💼 Available to Hire
 
 ```text
 🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-Python                   2 hrs 47 mins       █████████████████████░░░░   82.98 % 
-C                        18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Requirements.txt         6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-
-🔥 Editors: 
-PyCharm                  3 hrs               ██████████████████████░░░   89.31 % 
-VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 
 💻 Operating System: 
 Windows                  3 hrs 3 mins        ███████████████████████░░   90.69 % 
@@ -77,14 +34,6 @@ Shell                    4 repos             ███░░░░░░░░�
 C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/wathika-eng/wathika-eng/main/assets/bar_graph.png)
-
-
- Last Updated on 13/12/2023 18:36:06 UTC
 <!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
