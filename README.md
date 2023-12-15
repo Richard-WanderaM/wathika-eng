@@ -13,20 +13,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 98.8 kB Used in GitHub's Storage 
- > 
-> 🏆 862 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -44,7 +30,7 @@ WSL                      19 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/12/2023 19:22:34 UTC
+ Last Updated on 15/12/2023 19:25:27 UTC
 <!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
