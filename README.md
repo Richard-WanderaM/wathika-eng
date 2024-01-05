@@ -7,13 +7,6 @@
 
 - 💬 Ask me about **Django, Flask and Bootstrap**
   
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-
- Last Updated on 04/01/2024 18:36:08 UTC
-<!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/wathikawww/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wathikawww/" height="30" width="40" /></a>
