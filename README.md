@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate on **Web development projects**
 
 - 💬 Ask me about **Django, Flask and Bootstrap**
-  
+
+   [![wakatime](https://wakatime.com/badge/user/018c57df-d8be-452c-aae7-621da67d3d5c.svg)](https://wakatime.com/@018c57df-d8be-452c-aae7-621da67d3d5c)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/wathikawww/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wathikawww/" height="30" width="40" /></a>
