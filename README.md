@@ -5,6 +5,8 @@
   
 - 👯 I’m looking to collaborate on **Web development projects**
 
+- Get all IT notes here: **https://www.mediafire.com/folder/5bl43ip0f5okw/IT+notes**
+
 - 💬 Ask me about **C, Python, Bash and JavaScript**
 
    [![wakatime](https://wakatime.com/badge/user/018c57df-d8be-452c-aae7-621da67d3d5c.svg)](https://wakatime.com/@018c57df-d8be-452c-aae7-621da67d3d5c)
