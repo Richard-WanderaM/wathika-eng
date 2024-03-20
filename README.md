@@ -5,7 +5,7 @@
   
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- Get all IT notes here: **https://www.mediafire.com/folder/5bl43ip0f5okw/IT+notes**
+- Get all IT notes here: **https://it.wathika.tech/**
 
 - 💬 Ask me about **C, Python, Bash and JavaScript**
 
